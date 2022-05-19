@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Debug",
+    "\\FlappyBird",
+    "\\SDL2_Lib",
+    "\\SDL2_Lib\\Dll",
+    "\\SDL2_Lib\\SDL2-2.0.8",
+    "\\SDL2_Lib\\SDL2_image-2.0.3",
+    "\\SDL2_Lib\\SDL2_image-2.0.3\\include",
+    "\\SDL2_Lib\\SDL2_mixer-2.0.2",
+    "\\SDL2_Lib\\SDL2_ttf-2.0.14"
+  ],
+  "SelectedNode": "\\BaseObject.h",
+  "PreviewInSolutionExplorer": false
+}
