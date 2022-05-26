@@ -5,6 +5,7 @@ Mọi người nhấn vào link mình gửi để đến Source code của game 
 ## MÔ TẢ CHUNG VỀ TRÒ CHƠI, CÁC Ý TƯỞNG CHÍNH : 
 Trò chơi có tên là FlappyBird. Mục tiêu của trò chơi là xây dựng một chú chim và những cái ống. Điều khiển chú chim bay qua những cái ống. Nếu chú chim chạm vào chướng ngại vật thì trò chơi sẽ kết thúc. Mỗi khi chú chim vượt qua một cặp ống thì người chơi nhận được một điểm.
 ## MÔ TẢ CÁC CHỨC NĂNG ĐÃ CÀI ĐẶT CHO GAME : 
+ Link video youtube mô tả các chức năng đã cài đặt cho game [Click vào đây để xem](https://youtu.be/L4DYPrZt3gc)
 - Tạo cửa sổ game và vẽ nền cho game
 - Tạo con chim và điều khiển nó
 - Tạo ống và chuyển động của ống
@@ -12,7 +13,6 @@ Trò chơi có tên là FlappyBird. Mục tiêu của trò chơi là xây dựng
 - Kiểm tra gameover
 - Tính điểm
 - Cài đặt âm thanh và hình ảnh cho game...                                                                           
- Link video youtube mô tả các chức năng đã cài đặt cho game :https://youtu.be/L4DYPrZt3gc
 ## CÁC KỸ THUẬT LẬP TRÌNH ĐƯỢC SỬ DỤNG TRONG CHƯƠNG TRÌNH : 
 - Sử dụng lớp class và struct để biểu diễn các đối tượng có trong game như đối tượng con chim và đối tượng cột... 
 - Xây dựng các hàm, mỗi hàm sẽ đảm nhận một chức năng nhất định 
