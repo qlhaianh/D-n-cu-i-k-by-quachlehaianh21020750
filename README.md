@@ -1,5 +1,5 @@
 # GAME FLAPPYBIRD
-- Điều khiển chú chim bay qua những cái ống
+- Điều khiển chú chim bay qua những cái ống với thư viện [SDL2](https://www.libsdl.org/)
 ## CÁCH CÀI ĐẶT TRÒ CHƠI
 Mọi người nhấn vào link mình gửi để đến Source code của game ở trên github. Sau đó ấn vào nút "code" có nền màu xanh lá cây để tải Source code về máy tính của mình. Sau khi tải xong mọi người mở Sourse code và ấn nút chạy code ở trên ứng dụng viết code của mọi người để chơi trò chơi. 
 ### Link video cách làm ví dụ với ứng dụng Microsoft Visual Studio [Click vào đây để xem](https://drive.google.com/file/d/1RrhtlrJq-LN4YHZErHyjPcnCOOxhfPaK/view?usp=sharing)
